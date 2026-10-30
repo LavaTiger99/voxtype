@@ -3429,4 +3429,3 @@ waveform so SNI hosts cannot replace the recording frame with a microphone icon.
 The waveform style needs no installed icon files and no GTK or layer-shell
 support. Audio comes from the daemon's existing level stream, not a second
 microphone capture. The animation timer and level subscriber are inactive at idle.
-
